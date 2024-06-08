@@ -1,10 +1,1 @@
-MsgBox, Press J to continue
-j::
-MsgBox, Hello! This is my first test in AHK, so its not like that good, but enjoy!
-Run, https://youtube.com/@Krickeroony
-MsgBox, This Channel did the entire script.
-Run, cmd.exe
-WinActivate ("C:\WINDOWS\SYSTEM32\cmd.exe")
-WinWaitActive ("C:\WINDOWS\SYSTEM32\cmd.exe")
-
-MsgBox, Thats What can i do for now, Cya!
+yh, in testt.ahk u can see the test
