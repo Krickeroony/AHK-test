@@ -4,6 +4,7 @@ MsgBox, Hello! This is my first test in AHK, so its not like that good, but enjo
 Run, https://youtube.com/@Krickeroony
 MsgBox, This Channel did the entire script.
 Run, cmd.exe
-WinActivate
-WinWaitActive
-Send, Thats all i can do for now, cya!
+WinActivate ("C:\WINDOWS\SYSTEM32\cmd.exe")
+WinWaitActive ("C:\WINDOWS\SYSTEM32\cmd.exe")
+
+MsgBox, Thats What can i do for now, Cya!
